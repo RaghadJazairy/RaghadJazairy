@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm a Data Scientist & Geospatial Analyst 👋
 
-<!--
-**RaghadJazairy/RaghadJazairy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between data science and geography to solve complex challenges in logistics, infrastructure, and data automation. Armed with a Master of Data Science and a background in Geosciences, I specialize in building reproducible pipelines that turn spatial and tabular data into actionable insights.
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+* **[Northeast Electrical Substation Mapping](PASTE_YOUR_REPO_LINK_HERE)** 
+  A spatial data science project focused on cleaning, and mapping electrical infrastructure across the Northeast. This project showcases ETL pipeline development, spatial data sanitization, and geographic visualizations.
+* **Risk Radar (Machine Learning & GIS for Insurance Risk) (– *[Pending / In Development]*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### 🛠️ Tech Stack & Toolkit
+* **Languages:** Python (Pandas, GeoPandas, NumPy), R, SQL
+* **Methodologies:** Spatial Analytics, ETL Pipelines, Process Automation, Data Sanitization
+* **Platforms:** Azure, GitHub, ArcGIS
+
+---
+
+### ✍️ Notes from the Field
+I explore data-driven social analysis, geography, and mapping over on my Substack publication, **https://thecontemplatorcartographer.substack.com/?utm_campaign=profile_chips**
 -->
