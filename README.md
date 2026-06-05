@@ -1,17 +1,18 @@
-## Hi there, I'm a Data Scientist & Geospatial Analyst 👋
+## Hi there, I'm a (newish) Data Scientist & Geospatial Analyst 👋
 
 I bridge the gap between data science and geography to solve complex challenges in logistics, infrastructure, and data automation. Armed with a Master of Data Science and a background in Geosciences, I specialize in building reproducible pipelines that turn spatial and tabular data into actionable insights.
 
-### 🚀 Featured Projects
-* **[Northeast Electrical Substation Mapping](PASTE_YOUR_REPO_LINK_HERE)** 
-  A spatial data science project focused on cleaning, and mapping electrical infrastructure across the Northeast. This project showcases ETL pipeline development, spatial data sanitization, and geographic visualizations.
-* **Risk Radar (Machine Learning & GIS for Insurance Risk) (– *[Pending / In Development]*
-
-
 ### 🛠️ Tech Stack & Toolkit
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shapes.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 * **Languages:** Python (Pandas, GeoPandas, NumPy), R, SQL
 * **Methodologies:** Spatial Analytics, ETL Pipelines, Process Automation, Data Sanitization
 * **Platforms:** Azure, GitHub, ArcGIS
+
+### 🚀 Featured Projects
+* 🔷 **[Northeast Electrical Substation Mapping](PASTE_YOUR_REPO_LINK_HERE)** 
+  A spatial data science project focused on parsing, cleaning, and mapping critical electrical infrastructure across the Northeast. This project showcases ETL pipeline development, spatial data sanitization, and interactive geographic visualizations.
+* 🔷 **Risk Radar**(ML + GIS Insurance Analytics) – *[Pending / In Development]*
 
 ---
 
