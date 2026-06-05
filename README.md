@@ -10,12 +10,13 @@ I bridge the gap between data science and geography to solve complex challenges 
 * **Platforms:** Azure, GitHub, ArcGIS
 
 ### 🚀 Featured Projects
-* 🔷 **[Northeast Electrical Substation Mapping][(https://github.com/RaghadJazairy/Geospatial-Data-Science/blob/main/README.md)]** 
+* 🔷 **[Northeast Electrical Substation Mapping](https://github.com/RaghadJazairy/Geospatial-Data-Science/blob/main/README.md)
+
   A spatial data science project focused on parsing, cleaning, and mapping critical electrical infrastructure across the Northeast. This project showcases ETL pipeline development, spatial data sanitization, and interactive geographic visualizations.
 * 🔷 **Risk Radar**(ML + GIS Insurance Analytics) – *[Pending / In Development]*
 
 ---
 
 ### ✍️ Notes from the Field
-I explore data-driven social analysis, geography, and mapping over on my Substack publication, **https://thecontemplatorcartographer.substack.com/?utm_campaign=profile_chips**
+[I explore data-driven social analysis, geography, and mapping over on my Substack publication](https://thecontemplatorcartographer.substack.com/?utm_campaign=profile_chips)
 -->
